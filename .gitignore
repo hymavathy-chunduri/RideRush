@@ -6,5 +6,6 @@ mlruns/
 outputs/
 models/
 .env
-src/data/raw/*.csv
+src/data/raw/ncr_ride_bookings.xlsx
 .DS_Store
+*.xlsx
