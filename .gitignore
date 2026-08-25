@@ -4,7 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 mlruns/
 outputs/
-models/
+/models/
 .env
 src/data/raw/ncr_ride_bookings.xlsx
 .DS_Store
